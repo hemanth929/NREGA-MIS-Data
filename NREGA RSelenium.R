@@ -107,5 +107,3 @@ for(i in 1:length(state)){
     remDr$goBack()   
   }
 }
-
-
