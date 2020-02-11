@@ -6,7 +6,9 @@ Government of India(GoI)'s Mahatma Gandhi National Rural Employement Generation 
 Code to scrape data for:
 
 Master Work Category Analysis
+
  This item falls under the tab R6. Work Progress
  
 Work Structre wise Physical and Financial Report
+
  This item falls under the tab R26. Focus Area Progress
